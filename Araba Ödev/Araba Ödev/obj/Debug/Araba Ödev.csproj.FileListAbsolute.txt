@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\bin\Debug\Araba Ödev.exe.config
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\bin\Debug\Araba Ödev.exe
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\bin\Debug\Araba Ödev.pdb
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba_Ödev.Properties.Resources.resources
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.exe
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.pdb
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba_Ödev.AnaForm.resources
+C:\Users\user\source\repos\Araba Ödev\Araba Ödev\obj\Debug\Araba_Ödev.frmaraba.resources
+C:\Users\user\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.exe
+C:\Users\user\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.pdb
+C:\Users\adilc\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csprojAssemblyReference.cache
+C:\Users\adilc\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.exe
+C:\Users\adilc\Desktop\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.pdb
+C:\Users\adilc\Desktop\eski projeler\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.csproj.AssemblyReference.cache
+C:\Users\adilc\Desktop\eski projeler\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.exe
+C:\Users\adilc\Desktop\eski projeler\Araba Ödev\Araba Ödev\obj\Debug\Araba Ödev.pdb
